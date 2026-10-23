@@ -1,0 +1,6 @@
+# KeepNotes Widgets - pinned dependencies (Python 3.11+)
+gkeepapi==0.17.1
+gpsoauth==2.0.0
+keyring==25.7.0
+pywin32-ctypes==0.2.3; sys_platform == "win32"
+PySide6-Essentials==6.12.0
